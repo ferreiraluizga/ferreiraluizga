@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.youtube.com/@oferreiraluizga" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"/></a>
+  <a href="https://open.spotify.com/intl-pt/artist/71VxUL7qmClYcFmYEyEts8?si=AuscPmNWRjeWb7OZStxFBA&nd=1&dlsi=32545773b68e4c63" target="_blank"><img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=0A5C33&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"/></a>
   <a href="https://www.instagram.com/ferreiraluizga/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"/></a>
   <a href="mailto:luiz.gabriel.lcf@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  /></a>
 </div>
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">📍 Itaquera, São Paulo, Brasil<br>🎵 Musicista e Compositor<br>📚 Desenvolvimento de Sistemas 2/3<br>✝️ Cristão</p>
+<p align="center">📍 Itaquera, São Paulo, Brasil<br>🎵 Musicista e Compositor<br>📚 Desenvolvimento de Sistemas 2/3<br>✝️ Cristão<br>🌐︎ <a href="https://ferreiraluizga.vercel.app" target="_blank">https://ferreiraluizga.vercel.app</a></p>
 
 ##
 
