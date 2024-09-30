@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">👩‍💻 Sobre mim:</h3>
+<h3 align="center">Sobre mim:</h3>
 
 ###
 
