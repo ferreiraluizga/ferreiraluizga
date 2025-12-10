@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">📍 Itaquera, São Paulo, Brasil<br>🎵 Musicista e Compositor<br>📚 Téc. Desenvolvimento de Sistemas 3/3<br>✝️ Cristão<br>🌐︎ <a href="https://ferreiraluizga.vercel.app" target="_blank">https://ferreiraluizga.vercel.app</a></p>
+<p align="center">📍 Itaquera, São Paulo, Brasil<br>🎵 Musicista e Compositor<br>📚 Téc. Desenvolvimento de Sistemas<br>✝️ Cristão<br>🌐︎ <a href="https://ferreiraluizga.vercel.app" target="_blank">https://ferreiraluizga.vercel.app</a></p>
 
 ##
 
