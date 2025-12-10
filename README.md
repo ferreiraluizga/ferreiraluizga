@@ -33,10 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="50" alt="figma logo"  />
 </div>
-
-##
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreiraluizga&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraluizga&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
