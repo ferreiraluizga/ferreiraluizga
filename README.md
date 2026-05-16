@@ -11,9 +11,7 @@ Olá! Me chamo Gabriel e sou desenvolvedor de sistemas full-stack, com ênfase e
   <a href="https://www.linkedin.com/in/luiz-gabriel-ferreira-25296533b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram logo"/></a>
 </div>
 
----
-
-### 🛠 Linguagens e Tecnologias
+## 🛠 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>&nbsp;
