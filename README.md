@@ -14,13 +14,9 @@ Olá! Me chamo Gabriel e sou desenvolvedor de sistemas full-stack, com ênfase e
 ## 🛠 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40"/>&nbsp;
 </p>
